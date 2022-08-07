@@ -1,8 +1,16 @@
 button {
-    width: 120px;
+    width: 200px;
+    height: 100px;
 }
 
 #result {
     text-align: center;
     font-size: 120px;
+    color: red;
+}
+
+#input {
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
 }
