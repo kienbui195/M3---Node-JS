@@ -1,0 +1,21 @@
+button {
+    height: 50px;
+    width: 200px;
+}
+
+#input {
+    height: 50px;
+    width: 200px;
+}
+
+#yourMoney {
+    margin-top: 15px;
+    font-size: 20px;
+    color: red;
+}
+
+#result {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
